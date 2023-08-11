@@ -16,52 +16,30 @@ public class HotelService extends Step {
 	Scanner leer = new Scanner(System.in).useDelimiter("\n");
 	List<Step> steps = new ArrayList<>();
 
+	public void disponibilidad(ArrayList<Reserva> reservas) {
+		System.out.println("Ingrese la fecha de inicio de la reserva");
+		LocalDate fechaInicio = LocalDate.parse(leer.next());
 
-	public List<Habitacion> buscarHabitacion() {
+		System.out.println("Ingrese la fecha de fin de la reserva");
+		LocalDate fechaFin = LocalDate.parse(leer.next());
 
-		System.out.println("Ingrese la cantidad de personas:");
-		int cantidadPersonas = leer.nextInt();
-
-		System.out.println("Ingrese la fecha de inicio (año-mes-día):");
-		String    fechaInicioStr = leer.next();
-		LocalDate fechaInicio    = LocalDate.parse(fechaInicioStr);
-
-		System.out.println("Ingrese la fecha de fin (año-mes-día):");
-		String    fechaFinStr = leer.next();
-		LocalDate fechaFin    = LocalDate.parse(fechaFinStr);
-
-		List<Habitacion> habitacionesDisponibles = new ArrayList<>();
-
-		for (Habitacion habitacion : habitaciones) {
-			if (habitacion.isDisponible() && habitacion.getCantidadPersonas() >= cantidadPersonas) {
-				boolean disponible = true;
-				for (Reserva reserva : reservas) {
-					if (reserva.getHabitacion().equals(habitacion)) {
-						if (!(fechaInicio.isAfter(reserva.getFechaFin()) || fechaFin.isBefore(reserva.getFechaInicio()))) {
-							disponible = false;
-							break;
-						}
-					}
-				}
-				if (disponible) {
-					habitacionesDisponibles.add(habitacion);
-				}
+		for (Reserva r : reservas) {
+			if ((fechaInicio.isEqual(r.getFechaInicio()) || fechaInicio.isAfter(r.getFechaInicio())) && (fechaInicio.isEqual(r.getFechaFin()) || fechaInicio.isBefore(r.getFechaFin()))
+				 || (fechaFin.isEqual(r.getFechaInicio()) || fechaFin.isAfter(r.getFechaInicio())) && (fechaFin.isEqual(r.getFechaFin()) || fechaFin.isBefore(r.getFechaFin()))) {
+				System.out.println("La habitacion no esta disponible");
+				return; // Terminamos aquí si encontramos una reserva que coincide
 			}
 		}
 
+		// Si llegamos a este punto, la habitación está disponible
+		System.out.println("La habitacion esta disponible desea realizar la reserva? (S/N)");
+		String respuesta = leer.next();
 
-		if (habitacionesDisponibles.isEmpty()) {
-			System.out.println("No hay habitaciones disponibles para esas fechas y cantidad de personas.");
-		} else {
-			System.out.println("Habitaciones disponibles:");
-			for (Habitacion habitacion : habitacionesDisponibles) {
-				System.out.println("Número de habit");
-			}
-		}
-
-		return habitacionesDisponibles;
-
-	 }
-
+		//TODO validar respuesta (S/N)
 	}
+
+
+}
+
+
 
