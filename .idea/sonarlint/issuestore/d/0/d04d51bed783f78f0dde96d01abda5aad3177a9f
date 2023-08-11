@@ -1,0 +1,15 @@
+
+€
+java:S1319"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(‚ñ…ûýÿÿÿÿ
+{
+java:S1319"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(’ù‹¥
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ýâÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ŠÆÍýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹¡Õœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆü›¡ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ôöêÿÿÿÿÿ
+R
+java:S1854 "<Remove this useless assignment to local variable "promedio".(¹ñž’
+C
+java:S1481 "-Remove this unused "promedio" local variable.(¹ñž’
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ù¸õ£ýÿÿÿÿ

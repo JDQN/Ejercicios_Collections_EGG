@@ -1,0 +1,28 @@
+
+
+java:S1319"kThe type of "listaPaises" should be an interface such as "List" rather than the implementation "ArrayList".(Ç€¨äùÿÿÿÿ8øğØÈœ1
+
+java:S1319*"kThe type of "listaPaises" should be an interface such as "List" rather than the implementation "ArrayList".(èğ Ÿÿÿÿÿÿ8ùğØÈœ1
+
+java:S13194"kThe type of "listaPaises" should be an interface such as "List" rather than the implementation "ArrayList".(ÖÃÿÿÿÿÿ8ùğØÈœ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ½Âƒøÿÿÿÿ8úğØÈœ1
+^
+java:S1117"<Rename "leerPais" which hides the field declared at line 11.(ÌĞ ùøÿÿÿÿ8ˆñØÈœ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ı÷X8‰ñØÈœ1
+Z
+java:S1117"8Rename "pais" which hides the field declared at line 12.(•¾‘‹ùÿÿÿÿ8‰ñØÈœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶úÓİ8ŠñØÈœ1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(â½ÿÿÿÿÿ8‹ñØÈœ1
+b
+java:S1854+"@Remove this useless assignment to local variable "nombrePaises".(•Î•ãÿÿÿÿÿ8‹ñØÈœ1
+S
+java:S1481+"1Remove this unused "nombrePaises" local variable.(•Î•ãÿÿÿÿÿ8ŒñØÈœ1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(›òï€8ŒñØÈœ1
+U
+java:S1117."8Rename "pais" which hides the field declared at line 12.(†àì‹8ŒñØÈœ1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(î§Ø§8ŒñØÈœ1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Øİ„¸úÿÿÿÿ8ñØÈœ1
+Z
+java:S1117;"8Rename "pais" which hides the field declared at line 12.(”£êıüÿÿÿÿ8ñØÈœ1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ÄøË‡8ñØÈœ1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¬İéÿÿÿÿÿ8ÃíÚÈœ1

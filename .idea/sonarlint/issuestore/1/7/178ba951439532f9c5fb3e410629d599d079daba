@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¯ºƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ø»ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£°ÙË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€¬†£ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Íü»
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(€¬†£ıÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‚Íü»
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(éĞ·çüÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ëÔÄƒ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ëÔÄƒ
+p
+java:S1128"URemove this unused import 'ejerciciosCollections.ejercicioAprendizaje02.entity.Raza'.(Í°ÿ÷ıÿÿÿÿ

@@ -1,0 +1,24 @@
+
+‡
+java:S1319$"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(Ì¤íæÿÿÿÿÿ8‡›óš1
+‡
+java:S1319+"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(ŸÉÆ©ûÿÿÿÿ8ˆ›óš1
+‡
+java:S1319O"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(ï‡Šøşÿÿÿÿ8ˆ›óš1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ‘ˆº8‰›óš1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ûÿ¾j8Ÿ›óš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·È²ıÿÿÿÿ8Ÿ›óš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡²¸¿8Ÿ›óš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ²Ã«øÿÿÿÿ8 ›óš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×¼ÊÙúÿÿÿÿ8¡›óš1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¿ïÍµüÿÿÿÿ8¢›óš1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(†áœ±ÿÿÿÿÿ8£›óš1
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(ÅÂ¿b8£›óš1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(îôüÿÿÿÿ8£›óš1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(‘Œíü8¤›óš1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(«—ñÌ8¤›óš1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(â¥‚8¥›óš1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(—š— şÿÿÿÿ8¦›óš1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¶øÜõûÿÿÿÿ8§›óš1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(ëãÉş8›Öåôš1
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(—š— şÿÿÿÿ8ı™çôš1

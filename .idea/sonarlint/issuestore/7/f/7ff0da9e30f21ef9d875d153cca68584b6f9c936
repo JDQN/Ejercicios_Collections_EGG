@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üó¢úùÿÿÿÿ8ûŠ›1
+ƒ
+java:S4165"fRemove this useless assignment; "promedio" already holds the assigned value along all execution paths.(¹áÉö8²«Ú›1
+L
+java:S1656"/Remove or correct this useless self-assignment.(¹áÉö8¶«Ú›1

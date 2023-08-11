@@ -1,0 +1,15 @@
+
+‚
+java:S1319"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(›Å¦€8ûñøš1
+‡
+java:S1319$"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(›…Ê‡ûÿÿÿÿ8ûñøš1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ‘ˆº8üñøš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ª…ö8‡òøš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰«¢§øÿÿÿÿ8‡òøš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğİë8ˆòøš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(û˜ò—8ˆòøš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’ĞÖ×8ˆòøš1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¦ò÷Ç8‰òøš1
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ÅÂ¿b8‰òøš1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Ç¾Ùµ8Ëı‚øš1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ºÎ‘úÿÿÿÿ8Ï¡†øš1

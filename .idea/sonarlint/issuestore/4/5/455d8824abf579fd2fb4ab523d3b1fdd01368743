@@ -1,0 +1,64 @@
+
+c
+java:S1192*"MDefine a constant instead of duplicating this literal "La pelicula " 3 times.(ßç²˜
+‡
+java:S1319"lThe type of "listPelicula" should be an interface such as "List" rather than the implementation "ArrayList".(•’ñúÿÿÿÿ
+‚
+java:S1319"lThe type of "listPelicula" should be an interface such as "List" rather than the implementation "ArrayList".(Œ¸İß
+‚
+java:S13190"lThe type of "listPelicula" should be an interface such as "List" rather than the implementation "ArrayList".(Û†È
+‡
+java:S1319@"lThe type of "listPelicula" should be an interface such as "List" rather than the implementation "ArrayList".(šÛ§¡şÿÿÿÿ
+‚
+java:S1319M"lThe type of "listPelicula" should be an interface such as "List" rather than the implementation "ArrayList".(¿ú¡·
+=
+java:S1604!"(Make this anonymous inner class a lambda(ÓÌ‡e
+=
+java:S16041"(Make this anonymous inner class a lambda(ÓÌ‡e
+=
+java:S1604A"(Make this anonymous inner class a lambda(ÓÌ‡e
+=
+java:S1604N"(Make this anonymous inner class a lambda(ÓÌ‡e
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´œœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı¿àË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÎ÷•úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’•
+s
+java:S1158$"XCall the static method Integer.compare(...) instead of instantiating a temporary object.(µÂÚüÿÿÿÿ
+<
+java:S2129$"!Remove this "Integer" constructor(µÂÚüÿÿÿÿ
+c
+java:S5738$"HRemove this call to a deprecated method, it has been marked for removal.(µÂÚüÿÿÿÿ
+<
+java:S2129$"!Remove this "Integer" constructor(µÂÚüÿÿÿÿ
+c
+java:S5738$"HRemove this call to a deprecated method, it has been marked for removal.(µÂÚüÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¸ƒÒŒ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ßç²˜
+s
+java:S11584"XCall the static method Integer.compare(...) instead of instantiating a temporary object.(µÂÚüÿÿÿÿ
+<
+java:S21294"!Remove this "Integer" constructor(µÂÚüÿÿÿÿ
+c
+java:S57384"HRemove this call to a deprecated method, it has been marked for removal.(µÂÚüÿÿÿÿ
+<
+java:S21294"!Remove this "Integer" constructor(µÂÚüÿÿÿÿ
+c
+java:S57384"HRemove this call to a deprecated method, it has been marked for removal.(µÂÚüÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ã÷­
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ßç²˜
+;
+java:S2129D" Remove this "String" constructor(­ ¿Åúÿÿÿÿ
+;
+java:S2129D" Remove this "String" constructor(­ ¿Åúÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(·¨ª
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Ñ„ªÚıÿÿÿÿ
+;
+java:S2129Q" Remove this "String" constructor(ğ¢ÉÎûÿÿÿÿ
+;
+java:S2129Q" Remove this "String" constructor(ğ¢ÉÎûÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(²š‰ÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ñ«Ç¹ûÿÿÿÿ
+R
+java:S1128
+"7Remove this unused import 'java.util.Collections.sort'.(ÿˆ¢øşÿÿÿÿ

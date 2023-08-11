@@ -1,0 +1,33 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä× õ8Ú»Ìå1
+„
+java:S1192"bDefine a constant instead of duplicating this literal "Introduce el nombre del producto:" 3 times.(£¶˜áşÿÿÿÿ8Ú»Ìå1
+Š
+java:S1319"mThe type of "listaProducto" should be an interface such as "List" rather than the implementation "ArrayList".(ôÊŸ8Û»Ìå1
+†
+java:S1319"jThe type of "mapaProductos" should be an interface such as "Map" rather than the implementation "HashMap".(ÍĞèR8Û»Ìå1
+Š
+java:S1319%"mThe type of "listaProducto" should be an interface such as "List" rather than the implementation "ArrayList".(¦Ã…İ8Û»Ìå1
+
+java:S13198"mThe type of "listaProducto" should be an interface such as "List" rather than the implementation "ArrayList".(•ÀÕÿıÿÿÿÿ8Û»Ìå1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚õğúÿÿÿÿ8İ»Ìå1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£¶˜áşÿÿÿÿ8ë»Ìå1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(òÀµ8ë»Ìå1
+Y
+java:S1117"<Rename "producto" which hides the field declared at line 14.(ªû­8ë»Ìå1
+X
+java:S1117"<Rename "producto" which hides the field declared at line 14.(†Ïûc8ì»Ìå1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Û¶¦‚8ì»Ìå1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(£¶˜áşÿÿÿÿ8ğ»Ìå1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(—½ë8ñ»Ìå1
+Y
+java:S1117,"<Rename "producto" which hides the field declared at line 14.(ÍòËç8ğ»Ìå1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ã¬ÿÓøÿÿÿÿ8ñ»Ìå1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(‹ãèÿ8ò»Ìå1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(£¶˜áşÿÿÿÿ8‹ÑÛå1
+Y
+java:S1117<"<Rename "producto" which hides the field declared at line 14.(ÍòËç8ŒÑÛå1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(®äüê8ŒÑÛå1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(‹ãèÿ8ÑÛå1
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(­ĞŞÿ8ÑÛå1

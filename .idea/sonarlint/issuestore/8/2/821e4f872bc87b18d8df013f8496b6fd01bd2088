@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÓÃÜ¡øÿÿÿÿ8øáÌ™1
+
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£Å¯ü8’øáÌ™1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×çƒŠ8”øáÌ™1
+[
+java:S1854"9Remove this useless assignment to local variable "libro".(Ö½ÿùÿÿÿÿ8ÿóÌ™1
+L
+java:S1481"*Remove this unused "libro" local variable.(Ö½ÿùÿÿÿÿ8‚ŸóÌ™1
